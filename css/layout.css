@@ -66,11 +66,11 @@ header .banner-text h3 {
    color: #000;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 0px 1px 12px rgba(0, 0, 0, .5, color='white');
+   text-shadow: 0px 1px 12px rgba(256, 256, 256, .7);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #000;
+   color: #222;
 }
 header .banner-text hr {
    width: 60%;
